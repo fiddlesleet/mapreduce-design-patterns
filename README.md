@@ -9,3 +9,4 @@ Hadoop ecosystem recipes for common data transformations &amp; iterative algorit
 * Aggregate (count, sum, average, etc.)
 * Remap / Rename / Re-order
 * Intersect (join)
+* Group By (done in reducer, once like keys have been grouped via the Shuffle step) 
