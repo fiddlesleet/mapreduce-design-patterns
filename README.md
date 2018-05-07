@@ -5,7 +5,7 @@ Hadoop ecosystem recipes for common data transformations &amp; iterative algorit
 
 ### As in Dplyr in R, the basic data transformation operations are: 
 * Filter
-* Sort 
+* Sort (done via the shuffle stage)
 * Aggregate (count, sum, average, etc.)
 * Remap / Rename / Re-order
 * Intersect (join)
